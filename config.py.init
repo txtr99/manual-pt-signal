@@ -1,0 +1,3 @@
+SIGNAL_TOKEN = 'your_signal_token_here'
+LONG_SIGNAL_LABEL = 'your_long_signal_label_here'
+SHORT_SIGNAL_LABEL = 'your_short_signal_label_here'
